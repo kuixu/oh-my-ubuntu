@@ -3,6 +3,7 @@
 # tuna
 wget https://tuna.moe/oh-my-tuna/oh-my-tuna.py
 sudo python oh-my-tuna.py --global
+sudo apt update 
 
 # zsh
 sudo apt install zsh
