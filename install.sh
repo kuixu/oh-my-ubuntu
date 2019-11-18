@@ -1,8 +1,7 @@
 #!/bin/bash
 
 # tuna
-wget https://tuna.moe/oh-my-tuna/oh-my-tuna.py
-sudo python oh-my-tuna.py --global
+sudo python -c "$(curl -fsSL https://tuna.moe/oh-my-tuna/oh-my-tuna.py)" --global
 sudo apt update 
 
 # zsh
