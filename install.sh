@@ -16,4 +16,4 @@ tmux
 tmux source ~/.tmux.conf
 
 # htop 
-sudo apt install htop
+sudo apt install htop code
